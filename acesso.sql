@@ -1,0 +1,25 @@
+github
+samuelivanbuglioni
+Samuca1982-
+
+https://github.com/samuelivanbuglioni/DataScience.git
+
+configurando o git:
+abrir aplicativo
+cd..
+cd git
+
+---
+comando para conectar o git:
+
+git config --global user.name "samuelivanbuglioni"
+
+git config --global user.email "samuelivanbuglioni@gmail.com"
+
+git clone https://github.com/samuelivanbuglioni/DataScience.git
+
+cd DataScience
+
+git add acessogit.txt
+
+git commit -m "Esse foi o primeiro commit desse arquivo" acessogit.txt
